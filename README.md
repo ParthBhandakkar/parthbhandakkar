@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+[<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--              PARTH BHANDAKKAR — GITHUB PROFILE README             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -346,3 +346,4 @@ creative ideas, and ways to bring your vision to life.
 <p align="center">
   <sub>© 2026 Parth Bhandakkar &nbsp;·&nbsp; Designed & built with 🚀 &nbsp;·&nbsp; <i>Building the future, one system at a time.</i></sub>
 </p>
+](https://www.linkedin.com/jobs/view/4321456500/?eBP=CwEAAAGcbkMnfdc7cVPE17pU3dSd2ZktnAyjoQhC--B3SgyQ_QsXHWzmXEWXxX2CvhamvB_t_EcC8ZUMMVj6nehA9msmC3KZl1EsAJm-f92kj7XK5uGN74vIDzFN0_Nc7FJ8twh03dPlqX-meelOSGDWxquyvaNS9nSzTOKlIoiBLBPHqjwKzixTerVdwhE7zp9QvC1mDTOUeNCjvE49TwriOfV_q4IqF_EXYktRfJrj5-6YjHm6Ry_i9fMc4gCixg5UOQdvy30fdR2dgiEvpn1VO7gzwCBKTzUSTQOG-Qzi_c1bVs-CwwvnLFh2eue5vWMaty1T7ZVWC_NXUWubpfD-c-tgHEhiC7DiBIS1Ab9TRj3MaGOf9BsXG5TmRgb9YA7F8j0Ey-Nzrn8pchLZhdQPEMKAQm23MDiXozh8DGT6Sm3KWo4fkguGIlJY35mLE-OrDLMo7h4vWg7LAjTiIAkU44jdRLSPZV7kx2HiIbFFaBoSM8S7qNfgzMJDL9oWl1vY28x0X7vOq-B36ZbBLA&refId=S0Btij8y5oCGj4cqqZBJiQ%3D%3D&trackingId=rWJUQl73gAM%2BSMgLx7R1Xw%3D%3D&trk=flagship3_search_srp_jobs)
