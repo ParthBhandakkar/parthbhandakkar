@@ -1,19 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently working on  AlgoTrading and machine learning.<br>🌱 I’m currently learning more about AI and ML.<br>👯 I’m looking to collaborate on machine learning projects.<br>📫 How to reach me: Check social links below.<br>
+# ⚡ PARTH BHANDAKKAR — 3D / GSAP / AI PORTFOLIO
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Parth%20Bhandakkar&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Frontend%20Motion%20%7C%20ML%20Builder&descAlign=50&descAlignY=55" alt="header"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_bhandakkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-bhandakkar-6791761bb) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Neon+UI+Experiences+with+GSAP+%2B+Three.js;Machine+Learning+%7C+Algo+Trading+%7C+Creative+Web;Turning+Ideas+into+Interactive+Products" alt="typing"/>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ParthBhandakkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParthBhandakkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhandakkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://portfolio-bhandakkarparth.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-portfolio--bhandakkarparth.netlify.app-06b6d4?style=for-the-badge&labelColor=0f172a" alt="portfolio"/>
+  </a>
+  <a href="https://github.com/Nidhivaishnav">
+    <img src="https://img.shields.io/badge/GitHub-Nidhivaishnav-111827?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ParthBhandakkar&icon=0&color=6)](https://visitcount.itsvg.in)
+
+## 🧠 ABOUT ME
+
+- 🔥 I build modern portfolio and product UIs with motion-first thinking.
+- 🤖 I’m focused on AI/ML projects and data-backed problem solving.
+- 📈 I’m exploring algorithmic trading and automation workflows.
+- 🤝 Open to collaboration on ML, web animation, and full-stack projects.
+- 🌐 Live Portfolio: [portfolio-bhandakkarparth.netlify.app](https://portfolio-bhandakkarparth.netlify.app/)
+
+---
+
+## 🛠️ TECH STACK (MOTION + AI)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,flask,django,mongodb,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0b0b0b" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+## 🚀 CURRENT FOCUS
+
+- Creating smooth UI interactions with GSAP timelines and scroll animations
+- Experimenting with Three.js scenes for immersive portfolio sections
+- Building ML prototypes and integrating them into practical apps
+
+---
+
+## 📊 GITHUB INSIGHTS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nidhivaishnav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhivaishnav&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhivaishnav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 FEATURED PORTFOLIO
+
+- 🔗 Live: [portfolio-bhandakkarparth.netlify.app](https://portfolio-bhandakkarparth.netlify.app/)
+- 🎨 Style: Dark-neon visual language + interactive sections
+- 🧱 Core: HTML/CSS/JavaScript with easy migration path to Tailwind + GSAP + Three.js
+
+---
+
+## 📬 CONTACT
+
+- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/Nidhivaishnav
+- Email: your-email@example.com
+
+---
+
+## ✅ QUICK EDIT LIST
+
+- Replace LinkedIn URL with your real profile
+- Replace email with your real email
+- If needed, update GitHub username inside stats URLs
+- To make this your main README, copy this file content into README.md
