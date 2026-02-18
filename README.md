@@ -1,4 +1,4 @@
-[<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--              PARTH BHANDAKKAR — GITHUB PROFILE README             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -286,17 +286,13 @@ Comprehensive analytics for higher education — student performance, enrollment
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parthbhandakkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthbhandakkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe" />
   &nbsp;
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhandakkar&theme=tokyonight&hide_border=true&background=0a0a1a&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhandakkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&text_color=c7d2fe" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthbhandakkar&theme=discord&no-frame=true&column=6&margin-w=15" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthbhandakkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=818cf8&text_color=c7d2fe" />
 </p>
 
 <p align="center">
@@ -346,4 +342,3 @@ creative ideas, and ways to bring your vision to life.
 <p align="center">
   <sub>© 2026 Parth Bhandakkar &nbsp;·&nbsp; Designed & built with 🚀 &nbsp;·&nbsp; <i>Building the future, one system at a time.</i></sub>
 </p>
-](https://www.linkedin.com/jobs/view/4321456500/?eBP=CwEAAAGcbkMnfdc7cVPE17pU3dSd2ZktnAyjoQhC--B3SgyQ_QsXHWzmXEWXxX2CvhamvB_t_EcC8ZUMMVj6nehA9msmC3KZl1EsAJm-f92kj7XK5uGN74vIDzFN0_Nc7FJ8twh03dPlqX-meelOSGDWxquyvaNS9nSzTOKlIoiBLBPHqjwKzixTerVdwhE7zp9QvC1mDTOUeNCjvE49TwriOfV_q4IqF_EXYktRfJrj5-6YjHm6Ry_i9fMc4gCixg5UOQdvy30fdR2dgiEvpn1VO7gzwCBKTzUSTQOG-Qzi_c1bVs-CwwvnLFh2eue5vWMaty1T7ZVWC_NXUWubpfD-c-tgHEhiC7DiBIS1Ab9TRj3MaGOf9BsXG5TmRgb9YA7F8j0Ey-Nzrn8pchLZhdQPEMKAQm23MDiXozh8DGT6Sm3KWo4fkguGIlJY35mLE-OrDLMo7h4vWg7LAjTiIAkU44jdRLSPZV7kx2HiIbFFaBoSM8S7qNfgzMJDL9oWl1vY28x0X7vOq-B36ZbBLA&refId=S0Btij8y5oCGj4cqqZBJiQ%3D%3D&trackingId=rWJUQl73gAM%2BSMgLx7R1Xw%3D%3D&trk=flagship3_search_srp_jobs)
