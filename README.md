@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=PARTH+BHANDAKKAR&fontAlign=50&fontAlignY=35&color=0:0a0a2e,100:4f46e5&fontColor=ffffff&fontSize=44&desc=Backend+Developer+%26+AI+Engineer&descAlign=50&descAlignY=55&descSize=16&descColor=a5b4fc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=PARTH+BHANDAKKAR&fontAlign=50&fontAlignY=35&color=0:0a0a2e,100:4f46e5&fontColor=ffffff&fontSize=44&desc=Backend+Developer+and+AI+Engineer&descAlign=50&descAlignY=55&descSize=16&descColor=a5b4fc" />
 </p>
 
 <p align="center">
