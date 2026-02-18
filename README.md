@@ -296,8 +296,10 @@ Comprehensive analytics for higher education — student performance, enrollment
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthbhandakkar&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=818cf8&line=6366f1&point=a5b4fc" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthbhandakkar&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=818cf8&line=6366f1&point=a5b4fc" alt="contribution graph" />
 </p>
+
+<p align="center"><sub>GitHub README images are static at scroll-time; this graph auto-updates with new contributions but does not animate on scroll.</sub></p>
 
 ---
 
