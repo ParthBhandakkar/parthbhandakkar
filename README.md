@@ -3,11 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARTH%20BHANDAKKAR&fontAlign=50&fontAlignY=35&color=0:000000,30:0a0a2e,60:1e1b4b,100:4f46e5&fontColor=ffffff&fontSize=48&desc=Backend%20Developer%20%26%20AI%20Engineer&descAlign=50&descAlignY=58&descSize=18&descColor=a5b4fc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=PARTH+BHANDAKKAR&fontAlign=50&fontAlignY=35&color=0:0a0a2e,100:4f46e5&fontColor=ffffff&fontSize=44&desc=Backend+Developer+%26+AI+Engineer&descAlign=50&descAlignY=55&descSize=16&descColor=a5b4fc" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+%26+scalable+architectures+%F0%9F%9A%80;AI-powered+solutions+that+push+the+frontier;Backend+%7C+AI+%7C+Distributed+Systems+%7C+Data+Pipelines" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Intelligent+Systems+%26+Scalable+Architectures;AI-Powered+Solutions+That+Push+the+Frontier;Backend+%7C+AI+%7C+Data+Pipelines" alt="typing" />
 </p>
 
 <!-- ────────── Badges ────────── -->
