@@ -3,11 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PARTH%20BHANDAKKAR&fontAlign=50&fontAlignY=42&color=0:000000,30:0a0a2e,60:1e1b4b,100:4f46e5&fontColor=ffffff&fontSize=48&stroke=6366f1&strokeWidth=1&desc=Backend%20Developer%20%26%20AI%20Engineer&descAlign=50&descAlignY=68&descSize=18&descColor=a5b4fc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARTH%20BHANDAKKAR&fontAlign=50&fontAlignY=35&color=0:000000,30:0a0a2e,60:1e1b4b,100:4f46e5&fontColor=ffffff&fontSize=48&desc=Backend%20Developer%20%26%20AI%20Engineer&descAlign=50&descAlignY=58&descSize=18&descColor=a5b4fc&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&width=800&height=75&lines=Building+intelligent+systems%2C+scalable+architectures;and+AI-powered+solutions+that+push+the+frontier.+🚀" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+%26+scalable+architectures+%F0%9F%9A%80;AI-powered+solutions+that+push+the+frontier;Backend+%7C+AI+%7C+Distributed+Systems+%7C+Data+Pipelines" alt="typing" />
 </p>
 
 <!-- ────────── Badges ────────── -->
